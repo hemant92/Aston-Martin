@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "type": "Sports",
+    "price": 920000,
+    "description": "Limited edition",
+    "image":"2"
+  },
+  {
+    "id": 2,
+    "type": "exotic car",
+    "price": 410500,
+    "description": "Cant take your eyes off!",
+    "image":"3"
+  },
+  {
+    "id": 3,
+    "type": "Racing",
+    "price": 395000,
+    "description": "Extreme action",
+    "image":"4"
+  },
+  {
+    "id": 4,
+    "type": "Luxury",
+    "price": 755990,
+    "description": "Best one to own",
+    "image":"5"
+  },
+  {
+    "id": 5,
+    "type": "Racing",
+    "price": 210500,
+    "description": "Start your day with it",
+    "image":"6"
+  },
+  {
+    "id": 6,
+    "type": "Sports",
+    "price": 334900,
+    "image":"7"
+  },
+  {
+    "id": 7,
+    "type": "Sports",
+    "price": 950000,
+    "description": "breath taking!",
+    "image": "1"
+  }
+]
